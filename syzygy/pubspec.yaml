@@ -1,5 +1,5 @@
-name: syzygy
-description: Syzygy Flame game
+name: Klondike
+description: A Klondike solitaire game built with Flame
 version: 0.0.0
 publish_to: none
 
@@ -11,3 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   flame: ^1.38.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
