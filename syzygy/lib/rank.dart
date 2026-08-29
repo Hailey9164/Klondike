@@ -1,6 +1,6 @@
 import 'package:flame/components.dart';
 import 'package:flutter/foundation.dart';
-import 'components/klondike_game.dart';
+import 'klondike_game.dart';
 
 @immutable
 class Rank {
